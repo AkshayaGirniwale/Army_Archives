@@ -1,0 +1,105 @@
+
+.topnav a {
+    float: right;
+    color: #0f1010;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  #hero {
+    width: 100%;
+    height: 40vh;
+    background: #414e85;
+  }
+  
+  #hero .container {
+    padding-top: 50px;
+  }
+  
+  #hero h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+  }
+  
+  #hero h2 {
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 50px;
+    font-size: 24px;
+  }
+  
+  #hero .animated {
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  }
+  #vadapav {
+    width: 100%;
+    height: 20vh;
+    background: #417447;
+  }
+  
+  #vadapav.container {
+    padding-top: 50px;
+  }
+  
+  #vadapav h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+  }
+  
+  #vadapav h2 {
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 50px;
+    font-size: 24px;
+  }
+  
+  #vadapav .animated {
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  }
+  .section{
+    background-color: #0f0f0f;
+    display:flex;
+    justify-content: space-between;
+    padding:40px;
+    width:60%;
+    margin:10rem auto 0 auto;
+  }
+  .section img{
+    height:250px;
+
+  }
+  .section h2{
+    margin:0;
+    color:greenyellow;
+  }
+  .section p{
+    color:#c0bdbd;
+  }
+  .center-form{
+
+    justify-content: center;
+    
+    display: flex;
+    
+    margin: 40px 50px;
+    
+    border: 3px solid rgb(13, 17, 18);
+    
+    padding: 50px;
+    
+    background-color: rgb(113, 202, 237);
+    
+    }
+
+ 
+ 
+  
+ 
+  
+  
+  
